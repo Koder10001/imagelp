@@ -1,0 +1,17 @@
+{
+  "name": "imagelp",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "imageLP": "./index.js"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^0.8.3"
+  }
+}
